@@ -4,7 +4,7 @@
 title: Fizcus Documentation
 url: "http://docs.fizcus.io"
 baseurl:
-microanalytics_key:
+microanalytics_key: ZwSg9rf6GA
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
